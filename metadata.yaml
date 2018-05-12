@@ -1,10 +1,16 @@
 _repo: An-Account-of-the-Insects-Noxious-to-Agriculture-and-Plants-in-New-Zealand-The-Scale-Insects-__48394
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48394-h/images/cover.jpg
 creator:
   author:
     agent_name: Maskell, W. M.
     gutenberg_agent_id: '44777'
     url: http://www.gutenberg.org/2009/agents/44777
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48394#An-Account-of-the-Insects-Noxious-to-Agriculture-and-Plants-in-New-Zealand-The-Scale-Insects-_
 gutenberg_issued: '2015-03-01'
 gutenberg_type: Text
 identifiers:
